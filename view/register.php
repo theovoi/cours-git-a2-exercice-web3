@@ -12,7 +12,7 @@
 				<form method="POST" action="register.php">
 					<div class="form-input">
 						<span class="username">
-							<input type="text" placeholder="name">
+							<input type="text" placeholder="Username" name="#">
 						</span>
 					</div>
 					<div class="form-input">
